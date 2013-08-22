@@ -1,0 +1,13 @@
+{
+  "name": "animate.sass",
+  "version": "2.0.0",
+  "main": "animate.sass",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
